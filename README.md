@@ -1,4 +1,4 @@
-# scrabblegrep
+# ScrabbleGREP
 
 `scrabblegrep` is a small Unix-style command-line tool for searching a
 Scrabble lexicon.
