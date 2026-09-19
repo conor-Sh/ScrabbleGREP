@@ -1,6 +1,6 @@
 # ScrabbleGREP
 
-`scrabblegrep` is a small Unix-style command-line tool for searching a
+`ScrabbleGREP` is a small Unix-style command-line tool for searching a
 Scrabble lexicon.
 
 It works like `grep`, except that it searches playable Scrabble words and
