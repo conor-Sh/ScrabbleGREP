@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+scrabblegrep.py
+scrabblegrep.egg-info/PKG-INFO
+scrabblegrep.egg-info/SOURCES.txt
+scrabblegrep.egg-info/dependency_links.txt
+scrabblegrep.egg-info/entry_points.txt
+scrabblegrep.egg-info/top_level.txt
+tests/test_scrabblegrep.py

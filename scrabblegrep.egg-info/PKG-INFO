@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: scrabblegrep
+Version: 0.1.0
+Summary: grep-like searching of a Scrabble lexicon
+Author: scrabblegrep contributors
+License: MIT
+Requires-Python: >=3.10
